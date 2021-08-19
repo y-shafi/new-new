@@ -1,0 +1,7 @@
+ Learning objectives:
+
+1. Understand what Node JS is used for.
+2. Running our js files in a Node enviroment.
+3. Understand modularity in js
+4. Import & Export said moule
+5. What is NPM and how to use it!
